@@ -15,6 +15,6 @@ Preview: <br/>
 
 
 
-https://github.com/nursedaturkcan/GoogleDriveDirectDownloadLinkGenerator/assets/129687664/828f2df6-5f16-46f7-ad31-a5c53b923c10 <br/>
+https://github.com/nursedaturkcan/GoogleDriveDirectDownloadLinkGenerator/assets/129687664/828f2df6-5f16-46f7-ad31-a5c53b923c10 
 
 The project will be made responsive in the future.
